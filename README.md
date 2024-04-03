@@ -1,1 +1,1 @@
-# Gen-AI-Fake-Faces
+# GenAI-FakeFaces
